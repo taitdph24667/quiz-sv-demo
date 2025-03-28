@@ -2,60 +2,57 @@
   {
     "question": "Which Vietnamese dish is the most well-known in over the world?",
     "options": ["Pho", "Bun Cha", "Nem Ran", "Bun Bo Hue"],
-    "correct": "Mất Kết Nối"
+    "correct": "Pho"
   },
   {
-    "question": "I’m a freelance graphic designer. I create branding materials such as logos, websites, and social media graphics for startups. I also work with established businesses to update their brand identity. I have a degree in graphic design and have been working in the industry for over 10 years. I’m passionate about helping businesses grow through effective design. What am I?",
-    "options": ["A web developer", "A graphic designer", "A social media manager", "A content writer"],
-    "correct": "A graphic designer"
+    "question": "a. Nam: Hi, Mark! Long time no see. You look so good!\nb. Nam: Yes, I have. I exercise every morning and eat more healthy food.\n c. Mark: Hi, Nam! Thanks. You look so fit, too. Have you worked out a lot lately?",
+    "options": [
+      " c – a – b",
+      "b – c – a",
+      "c – b – a",
+      "a – c – b"
+    ],
+    "correct": "a – c – b"
   },
   {
-    "question": "Thủ đô của Việt Nam là gì?",
-    "image": "https://condao.com.vn/uploads/photos/images/2019/10/hinh-anh-dep/img-20190827-074719-1.jpg",
-    "options": ["Hà Nội", "TP.HCM", "Đà Nẵng", "Huế"],
-    "correct": "Hà Nội"
+    "question": "What's your phone number?",
+    "audio": "Question2.mp3",
+    "options": ["01452946713", "01452946113", "02452946713", "01452046713"],
+    "correct": "01452946713"
   },
   {
-    "question": "2 + 1 bằng bao nhiêu?",
-    "options": ["3", "4", "1", "6"],
-    "correct": "3"
+    "question": "Find the mistake in the sentence below:\n My friend who works for Sony he is an engineer.",
+    "options": ["My friend", "works", "he is", "an"],
+    "correct": "He is"
   },
   {
-    "question": "Nghe đoạn âm thanh sau và cho biết đó bài hát nào?",
+    "question": "Listen and choose the correct picture. \n What is Mark drinking?",
     "audio": "MatKetNoi-DuongDomic-16783113.mp3",
-    "options": ["Mất Kết Nối", "Đừng quên tên anh", "Lệ cay", "Cầu vồng khuyết"],
-    "correct": "Mất Kết Nối"
+    "image": "Q4.jpg",
+    "options": ["Orange juice", "Apple juice", "Lemon juice", "other answer"],
+    "correct": "Apple juice"
   },
 
+{
+  "question": "Tom: \"Your new hairstyle is so great, Mary!\"\nMary: ____",
+  "options": [
+    "That's oke. No problem.",
+    "Really? I don't think so.",
+    "Nevermind",
+    "You're so kind to say that."
+  ],
+  "correct": "You're so kind to say that."
+}
+,
   {
-    "question": "3 + 3 bằng bao nhiêu?",
-    "options": ["3", "4", "5", "6"],
-    "correct": "6"
+    "question": "Listen and choose the correct answer: \n What is the flight number?",
+    "audio": "Question9.mp3",
+    "options": ["CA1234", "CA4321", "AA5678", "BA9090"],
+    "correct": "CA1234"
   },
   {
-    "question": "Đây là con vật gì?",
-    "image": "https://example.com/dog.jpg",
-    "options": ["Chó", "Mèo", "Voi", "Khỉ"],
-    "correct": "Chó"
-  },
-  {
-    "question": "3 + 4 bằng bao nhiêu?",
-    "options": ["3", "4", "5", "7"],
-    "correct": "7"
-  },
-  {
-    "question": "3 + 5 bằng bao nhiêu?",
-    "options": ["3", "4", "5", "8"],
-    "correct": "8"
-  },
-  {
-    "question": "3 + 6 bằng bao nhiêu?",
-    "options": ["1", "9", "5", "6"],
-    "correct": "9"
-  },
-  {
-    "question": "1 + 11 bằng bao nhiêu?",
-    "options": ["12", "9", "5", "6"],
-    "correct": "12"
+    "question": "Which word does NOT belong to the group based on meaning?",
+    "options": ["Blazer", "Cardigan", "Loafer", "Trench coat"],
+    "correct": "Loafer"
   }
 ]
