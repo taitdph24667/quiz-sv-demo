@@ -92,7 +92,7 @@ io.on("connection", (socket) => {
         });
 
         if (playerAnswer === correctAnswer) {
-            player.score += 1;
+            player.score += 10;
             player.totalTime = (player.totalTime || 0) + pendingAnswers[player.name].time;
             totalCorrect++;
         } else {
