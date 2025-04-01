@@ -22,7 +22,7 @@
   },
   {
     "question": "Find the mistake in the sentence below:\n My friend who works for Sony he is an engineer.",
-    "options": ["My friend", "works", "he is", "an"],
+    "options": ["My friend", "works", "He is", "an"],
     "correct": "He is"
   },
   {
